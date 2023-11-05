@@ -33,4 +33,4 @@ and open it on your browser
   http://localhost:5173/
 ```
 
-
+<img width="942" alt="Screenshot 2023-11-05 at 16 59 37" src="https://github.com/FMCambim/tic-tac-toe/assets/130978987/8e01318d-d608-4b60-bb55-8a58dccf57b7">
